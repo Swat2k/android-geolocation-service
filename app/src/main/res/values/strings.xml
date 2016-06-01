@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ForegroundService</string>
+    <string name="NotifyTitle">Гео-служба работает</string>
+    <string name="NotifyText"></string>
+</resources>
